@@ -25,3 +25,20 @@ body {
     font-size: 21px;
     color: gray;
 }
+
+.phonePic {
+    padding: 20px;
+}
+
+.comingSoon {
+    font-weight: 300;
+    font-size: 42px;
+    color: #ffffff;
+}
+
+.Copyright {
+    text-align: right;
+    color: gray;
+    font-weight: 300;
+    text-align: bottom;
+}
